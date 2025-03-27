@@ -65,7 +65,7 @@ The bot includes basic error handling:
 
 Once you've set up your credentials and customized the bot as needed, you can run the bot by executing the script:
 
-    python bot.py
+    python main.py
 
 ## Notes
 
