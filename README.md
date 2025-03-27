@@ -7,14 +7,18 @@ This template demonstrates how to create a Scratch bot that listens for specific
 - **Python 3.x**: Make sure you have Python installed on your system.
 - **scratchattach**: This Python library is used to interact with Scratch. Install it using pip:
 
-    pip install scratchattach
+    ```python
+  pip install scratchattach
+    ```
 
 ## Setup
 
 1. **Install dependencies**:
     Make sure you have `scratchattach` installed. Run the following command in your terminal or command prompt:
 
+    ```python
     pip install scratchattach
+    ```
 
 2. **Replace credentials**:
     In the script, replace the `"username"` and `"password"` in the login function with your Scratch account credentials.
